@@ -1,0 +1,8 @@
+{
+  "name": "VIẾT SÁNG KIẾN KINH NGHIỆM",
+  "description": "Ứng dụng hỗ trợ viết sáng kiến kinh nghiệm và luận văn tự động sử dụng AI, hỗ trợ xuất Word chuẩn in ấn.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
